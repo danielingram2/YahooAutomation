@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/MonteMediaCC/dist/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/MonteMediaCC/src/main" />
+      <root url="file://$USER_HOME$/Desktop/MonteMediaCC/src/main.jmf" />
+    </SOURCES>
+  </library>
+</component>
